@@ -1,0 +1,26 @@
+ForceDirectData.json
+{
+    "nodes":[
+      {"name":"File1.exe","colorGroup":0},
+      {"name":"File2.exe","colorGroup":0},
+      {"name":"File3.exe","colorGroup":0},
+      {"name":"File4.exe","colorGroup":0},
+      {"name":"File5.exe","colorGroup":0},
+      {"name":"File6.exe","colorGroup":0},
+      {"name":"File7.exe","colorGroup":0},
+      {"name":"File8.exe","colorGroup":0},
+      {"name":"File8.exe","colorGroup":0},
+      {"name":"File9.exe","colorGroup":0}
+    ],
+    "links":[
+      {"source":1,"target":0,"value":10},
+      {"source":2,"target":0,"value":35},
+      {"source":3,"target":0,"value":50},
+      {"source":4,"target":0,"value":50},
+      {"source":5,"target":0,"value":65},
+      {"source":6,"target":0,"value":65},
+      {"source":7,"target":0,"value":81},
+      {"source":8,"target":0,"value":98},
+      {"source":9,"target":0,"value":100}
+    ]
+}

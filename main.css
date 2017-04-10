@@ -1,0 +1,69 @@
+.active {
+  stroke: #000 !important;
+  stroke-width: 2px !important;
+}
+
+.links line.showlink {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+/*get rid of this later*/
+/*.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}*/
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.hidden {
+    display: none;
+}
+
+text {
+    font-family: verdana;
+    pointer-events: none;
+}
+
+html {
+    height:98%;
+    width:98%;
+}
+
+body {
+    height:100%;
+    width:100%;
+    background: #eee;
+}
+
+#container {
+    height:100%;
+    width:100%;
+}
+
+#graph {
+    /*width: 70%;*/
+    width: 100%;
+    height: 100%;
+    float: left;
+    background: #fff;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px dashed gray;
+}
+
+/*#panel {
+    float: left;
+    width: 29.5%;
+    height: 100%;
+    background: #fff;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px dashed gray;
+    margin-left: .5%;
+}*/
